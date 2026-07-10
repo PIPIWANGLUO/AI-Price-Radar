@@ -1,12 +1,17 @@
 <div align="center">
+  <h1><a href="https://airadar.ink">airadar.ink</a></h1>
+
+  <p><strong>AI价格雷达官方网站 · 点击上方网址立即访问</strong></p>
+
   <a href="https://airadar.ink">
-    <img src="./assets/ai-price-radar-cover.svg" alt="AI价格雷达 / AI Price Radar" width="100%" />
+    <img src="./assets/ai-price-radar-cover.svg" alt="AI价格雷达中文项目简介" width="100%" />
   </a>
 
   <br />
 
-  **AI 模型、订阅套餐与 API 服务的报价聚合、比价与风险提示平台**  
-  **A pricing discovery, comparison, and risk-awareness platform for AI products, subscriptions, and API services.**
+  <h2>AI价格雷达</h2>
+
+  **AI 模型、订阅套餐与 API 服务的报价聚合、比价与风险提示平台**
 
   <br />
 
