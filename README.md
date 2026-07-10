@@ -1,38 +1,120 @@
 <div align="center">
-  <img src="./assets/ai-radar-logo.png" alt="AI雷达 Logo" width="132" />
+  <a href="https://airadar.ink">
+    <img src="./assets/ai-price-radar-cover.svg" alt="AI价格雷达 / AI Price Radar" width="100%" />
+  </a>
 
-  <h1>AI雷达</h1>
+  <br />
 
-  <p><strong>聚合 AI 订阅与 API 报价，让价格更透明，让选择更简单。</strong></p>
+  **AI 模型、订阅套餐与 API 服务的报价聚合、比价与风险提示平台**  
+  **A pricing discovery, comparison, and risk-awareness platform for AI products, subscriptions, and API services.**
 
-  <p>覆盖 OpenAI、Claude、Gemini、Grok 与 API 中转等常见服务</p>
+  <br />
+
+  [**访问官网 / Visit Website**](https://airadar.ink) &nbsp;·&nbsp; [中文介绍](#中文介绍) &nbsp;·&nbsp; [English](#english)
 </div>
 
-## 关于 AI雷达
+---
 
-AI 产品的价格散落在不同平台，套餐名称、使用额度、库存状态和交付方式也各不相同。AI雷达希望把这些分散的信息整理到一起，让用户能够更直观地查看同类产品、比较报价，并及时发现缺货、失效或存在争议的商品。
+<a id="中文介绍"></a>
 
-我们不参与交易，也不替任何第三方商家提供担保。AI雷达只做信息聚合、用户反馈和风险提示，最终价格与库存请以原平台页面为准。
+## 中文介绍
 
-## 主要功能
+### AI价格雷达是什么？
 
-- **多模型聚合**：集中展示 OpenAI、Claude、Gemini、Grok、API 中转等产品报价。
-- **快速比价**：支持按关键词、模型、价格区间、库存状态和发卡平台筛选排序。
-- **用户反馈**：用户可以对小店进行正向或负向反馈，为其他人提供参考。
-- **小店入驻**：商家可以提交小店，审核通过后再进入公开列表。
-- **投诉与下架**：用户可以举报价格不实、缺货或链接失效等问题；异常小店达到规则阈值后会自动下架。
+**AI价格雷达（AI Price Radar）** 是一个面向 AI 用户的信息聚合与价格比较平台。我们把分散在不同平台的 AI 模型、订阅套餐、账号服务和 API 报价整理到同一个页面，帮助用户快速了解：
 
-## 我们关注什么
+- 同类产品目前有哪些报价；
+- 不同报价来自哪个平台或小店；
+- 当前价格、库存状态和最近更新时间；
+- 其他用户对相关小店的反馈与投诉情况。
 
-- 把同类 AI 产品放在同一个页面比较，减少反复搜索的时间。
-- 尽量保留报价来源，让信息能够回到原页面核验。
-- 通过用户反馈和投诉机制，及时发现失效或高风险信息。
-- 不以“最低价”作为唯一标准，同时关注库存、交付方式和商家口碑。
+用户可以先在 AI价格雷达中完成搜索、筛选和比较，再前往原平台核验商品信息。平台不参与交易，也不替第三方商家提供购买担保。
 
-## 仓库说明
+### 主要功能
 
-本仓库现阶段仅用于 **AI雷达** 的项目介绍与相关信息发布，暂不公开源代码、安装包及部署文档。
+| 功能 | 说明 |
+| --- | --- |
+| 多品类聚合 | 集中展示 OpenAI、Claude、Gemini、Grok 与 API 中转等服务报价 |
+| 快速搜索与筛选 | 按关键词、模型、平台、价格区间和库存状态查找报价 |
+| 多维度比较 | 同时查看价格、库存、来源、更新时间与商品标签 |
+| 用户反馈 | 通过用户评价辅助判断小店的实际体验与可信度 |
+| 入驻与审核 | 支持小店提交入驻，审核通过后进入公开列表 |
+| 投诉与下架 | 接收价格不实、缺货、链接失效等投诉，并按规则处理异常信息 |
 
-## 免责声明
+### 收录范围
 
-本项目展示的信息来自公开网络、商家提交及用户反馈，仅供查询与比较，不构成购买建议。商品价格、库存和服务内容可能随时变化，请在交易前前往原平台核实，并自行判断交易风险。
+目前主要覆盖以下类别：
+
+- **OpenAI**：ChatGPT、Codex、订阅、账号、接码与 API 相关服务；
+- **Claude**：Claude Pro、Max、Code 与相关服务；
+- **Gemini**：Google AI、Gemini 订阅与账号服务；
+- **Grok**：Grok、SuperGrok 与 X Premium 相关服务；
+- **API 服务**：AI API 中转、额度、网关与 Key 等服务。
+
+### 信息流转
+
+`公开报价与商家提交` → `分类整理与审核` → `搜索、筛选与排序` → `用户反馈与投诉` → `返回原平台核验`
+
+### 立即访问
+
+官网：[**https://airadar.ink**](https://airadar.ink)
+
+<p align="center">
+  <a href="https://airadar.ink">
+    <img src="./assets/ai-price-radar-product.png" alt="AI价格雷达产品界面：模型分类、报价概览与筛选" width="100%" />
+  </a>
+</p>
+
+---
+
+<a id="english"></a>
+
+## English
+
+### What is AI Price Radar?
+
+**AI Price Radar** is a pricing discovery and comparison platform for AI users. It brings scattered offers for AI models, subscriptions, account services, and APIs into one place, so users can quickly understand:
+
+- what offers are currently available for the same category;
+- which platform or store each offer comes from;
+- the listed price, stock status, and latest update time;
+- user feedback and complaint signals associated with each store.
+
+Users can search, filter, and compare offers on AI Price Radar before visiting the original platform to verify the final product details. AI Price Radar does not sell these products, participate in transactions, or guarantee third-party sellers.
+
+### Core capabilities
+
+| Capability | What it provides |
+| --- | --- |
+| Multi-category aggregation | Offers across OpenAI, Claude, Gemini, Grok, and API services |
+| Search and filtering | Find offers by keyword, model, platform, price range, and stock status |
+| Side-by-side signals | Compare price, availability, source, update time, and product tags |
+| Community feedback | Use public feedback as an additional reference when evaluating stores |
+| Store submissions | Allow stores to submit listings for review before publication |
+| Complaints and moderation | Report inaccurate prices, unavailable stock, or broken links for review |
+
+### Coverage
+
+- **OpenAI**: ChatGPT, Codex, subscriptions, accounts, phone verification, and API-related services;
+- **Claude**: Claude Pro, Max, Code, and related services;
+- **Gemini**: Google AI and Gemini subscription or account offers;
+- **Grok**: Grok, SuperGrok, and X Premium-related services;
+- **API services**: AI API relays, credits, gateways, and keys.
+
+### Visit the website
+
+[**https://airadar.ink**](https://airadar.ink)
+
+---
+
+## 仓库说明 / Repository Notice
+
+本仓库目前仅用于 **AI价格雷达** 的项目介绍与公开信息发布，暂不提供源代码、安装包或部署文档。
+
+This repository currently serves as the public project profile for **AI Price Radar**. Source code, installation packages, and deployment documentation are not published here at this time.
+
+## 免责声明 / Disclaimer
+
+AI价格雷达展示的信息来自公开网络、商家提交及用户反馈，仅供查询和比较，不构成购买建议。价格、库存和服务内容可能随时变化，请在交易前前往原平台核实，并自行判断交易风险。
+
+Information displayed by AI Price Radar is collected from public sources, store submissions, and user feedback for discovery and comparison purposes only. Prices, availability, and service terms may change at any time. Always verify the final details on the original platform and assess transaction risks independently.
